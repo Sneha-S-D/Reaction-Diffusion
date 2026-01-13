@@ -1,7 +1,9 @@
 
 # Reaction-Diffusion: Spatially-Varying Control
 
-![Project Demo](outputs/input1.mp4)
+
+https://github.com/user-attachments/assets/91da94f0-41a7-4e94-b860-4da8c3c67a35
+
 > *Above: Emergent biological texture synthesis guided by spatial parameter mapping. A static image determines the local laws of physics, forcing "digital bacteria" to self-organize into the target shape.*
 
 ##  Overview
