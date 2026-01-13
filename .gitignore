@@ -1,0 +1,12 @@
+# 1. Ignore Generated Outputs 
+outputs/
+*.mp4
+*.gif
+
+# 2. Python System Files 
+__pycache__/
+*.pyc
+
+# 3. Mac System Files
+.DS_Store
+
