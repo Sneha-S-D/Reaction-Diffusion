@@ -62,7 +62,7 @@ Place any `.jpg` or `.png` images into the `images/` folder. High-contrast image
 ### 3. Run the Simulation
 
 ```bash
-python main.py
+python src/main.py
 
 ```
 
@@ -75,13 +75,12 @@ The script will automatically:
 ## Project Structure
 
 ```text
-reaction-diffusion-control/
-├── assets/                 # Demo assets for README
+reaction-diffusion-control/                
 ├── images/                 # PUT YOUR INPUT IMAGES HERE
-├── outputs/                # Generated videos appear here (ignored by Git)
+├── outputs/                # Generated videos appear here 
 ├── src/
 │   └── main.py             # Core physics engine
-├── .gitignore              # Keeps repo clean
+├── .gitignore              
 └── requirements.txt        # Dependencies
 
 ```
