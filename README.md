@@ -105,5 +105,4 @@ kill_map = 0.060 + (param_map * (0.062 - 0.060))
 
 ---
 
-*Created by Sneha Dabadi*
 
